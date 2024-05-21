@@ -1,7 +1,9 @@
 # Personal Vault Project
 
 😌 Imagine having all your digital life, in your possession, indexed and searchable. 
+
 🤖 Now, add AI on top and be able to ask it anything about your life. Find trends, detect habits, find the bright and the dark spots. 
+
 🧳 Your digital legacy, completely yours.  All your photos, notes, posts, projects, chats, everything.
 
 ## Values 
